@@ -8,4 +8,4 @@ class Employee(models.Model):
     def __str__(self):
         return self.ename
 
-#nice
+#ni
